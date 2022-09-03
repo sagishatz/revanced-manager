@@ -34,34 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@sagishatz 
-revanced
-/
-revanced-manager
-Public
-Code
-Issues
-4
-Pull requests
-Actions
-Security
-Insights
-revanced-manager/.github/workflows/release-build.yml
-@ponces
-ponces build: rename jobs [skip ci]
-Latest commit 614a694 16 days ago
- History
- 2 contributors
-@ponces@Aunali321
-35 lines (33 sloc)  1.01 KB
-
 name: "Release Build"
 
 on:
